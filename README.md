@@ -41,9 +41,6 @@ This project demonstrates the ability to transform raw data into clear, actionab
 ---
 
 ## Dashboard Preview  
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./Resources/Airbnb_dash.png)
 
 ---
-
-## Live Dashboard  
-[View on Tableau Public](#)
